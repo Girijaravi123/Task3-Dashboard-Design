@@ -40,5 +40,3 @@ Tools Used
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - Dataset from [Kaggle](https://www.kaggle.com/)
 - Microsoft PowerPoint for presentation
-
-Submitted via: [Google Form Link](https://forms.gle/S7hRFbGEQJPVeq2T6)
