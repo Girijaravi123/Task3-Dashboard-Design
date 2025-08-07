@@ -1,4 +1,5 @@
 Task 4 – Sales Dashboard Design (Power BI)
+  
   The task was to design an interactive sales dashboard using Power BI based on a sales/financial dataset.
 
 Dataset Overview
